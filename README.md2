@@ -1,0 +1,7 @@
+# OpenEnv Final Agent
+
+This project implements a simple RL environment and exposes API endpoints for OpenEnv validation.
+
+Endpoints:
+- /reset
+- /step
